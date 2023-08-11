@@ -34,5 +34,4 @@ BenchmarkDotNet.Artifacts*
 
 /YamlDotNet.AotTest/exitcode.txt
 /tools/build/Properties/launchSettings.json
-/YamlDotNet.Unity
 *.meta
