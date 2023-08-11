@@ -1,0 +1,11 @@
+{
+  "name": "com.aaubry.yamldotnet",
+  "displayName": "YamlDotNet",
+  "version": "13.1.1",
+  "description": "YamlDotNet is a .NET library for YAML",
+  "dependencies": {},
+  "repository": {
+	"url": "https://github.com/Voresh/YamlDotNet.git"
+    "type": "git",
+  }
+}
